@@ -1,0 +1,126 @@
+.img-container{
+    text-decoration: dashed;
+    display: flexbox;
+    border: 10px solid rgba(7, 213, 236, 0.892);
+    border-radius:80px;
+    padding:110px;
+    width: 1200px;
+    overflow:auto;
+    height:200px;
+}
+
+iframe{
+    width: 1000px;
+    height:400px;
+    position:relative;
+    border:20px dashed rgb(255, 21, 0);
+}
+
+.my-image{
+    width:600px;
+    height: 200px;
+    object-position: 100px;
+    padding-top: 60px;
+    padding-left: 5%;
+    padding-right:80px;
+    padding-bottom: 80px;
+}
+
+.img-container1{
+    border: 10px solid rgb(175, 240, 11);
+    display:flexbox;
+    border-radius:80px;
+    width:1200px;
+    overflow:auto;
+    height: 200px;
+    padding:110px;
+    text-decoration: dotted;
+}
+
+.my-image1{
+    position:center;
+    height: 300px;
+    width:500px;
+    overflow:auto;
+    border-radius:80px;
+}
+.img-container2{
+    text-decoration: dashed;
+    display: flexbox;
+    border:10px solid rgb(232, 4, 16);
+    border-radius: 80px;
+    padding:100px;
+    width:1225px;
+    height:300px;
+    overflow: auto;
+    text-align: center; 
+}
+.img-container h1{
+    color:rgb(43, 226, 125);
+    text-align: center;
+}
+.img-container1 h1{
+    text-align-last: justify;
+    color: rgb(4, 120, 22);
+}
+
+.img-container1 h3{
+    color:red;
+    font-size:100px;
+    text-align-last:center;
+}
+.content-box{
+    width:80%;
+    margin:0 auto;
+    padding:40px;
+    background-color: blue;
+    border: 12px solid black;
+    box-shadow: 4 12px 10px rgba(204, 204, 204, 0.892);
+}
+.content-box h2{
+    text-align-last:justify;
+    color:azure;
+    text-align: center;
+    margin-bottom:15px;
+    text-size-adjust: 30px;
+}
+.img-container2 h2{
+    color:rgb(0, 119, 255);
+    font-size:80px;
+}
+.img-container2 h3{
+    font-size: 80px;
+    color:crimson;
+}
+.img-container2 p1{
+    color:crimson;
+}
+
+.content-box p{
+    text-align-last: justify;
+    text-size-adjust: 60px;
+    margin-block-end: 60px;
+    color:rgb(132, 238, 130);
+    line-height: 1.6;
+}
+
+
+.img-container3{
+    text-decoration: dashed; 
+    display: flexbox;
+    border:10px solid rgb(238, 5, 16);
+    border-radius: 80px;
+    padding:200px;
+    width: 1025px;
+    height:100px;
+    overflow: auto;
+    text-align: center;
+}
+.img-container3 h2{
+    color: blue;
+    font-size: 50px;
+}
+.img-container3 h3{
+    color:rgb(132, 238, 130);
+    font-size: 50px;
+}
